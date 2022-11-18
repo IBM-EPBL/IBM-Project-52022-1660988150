@@ -1,6 +1,7 @@
 # IBM-Project-52022-1660988150
 Natural Disasters Intensity Analysis and Classification using Artificial Intelligence
-TEAM MEMBERS :
+
+# TEAM MEMBERS :
 1) PANDIAN A | 952319106024
 2) MAHENDRAN K | 952319106016
 3) SELVAKUMAR E | 952319106032
